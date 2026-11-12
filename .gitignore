@@ -1,0 +1,22 @@
+# Executables et fichiers de compilation
+/output
+/output_debug
+/output_release
+/build/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+
+# Symboles de debogage macOS
+*.dSYM/
+
+# Fichiers macOS
+.DS_Store
+._*
+
+# Fichiers temporaires des editeurs
+*.swp
+*.swo
+*~
